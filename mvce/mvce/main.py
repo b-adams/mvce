@@ -1,3 +1,3 @@
-# import cx_Oracle
+import cx_Oracle
 
-print('cx_Oracle not imported')
+print('cx_Oracle imported')

@@ -1,0 +1,196 @@
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "CONDA_BUILD=1" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "PYTHONNOUSERSITE=1" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "CONDA_DEFAULT_ENV=C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\_b_env" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "ARCH=64" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "PREFIX=C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\_b_env" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "SYS_PREFIX=C:\Users\adambr\AppData\Local\Continuum\Anaconda3" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "SYS_PYTHON=C:\Users\adambr\AppData\Local\Continuum\Anaconda3\python.exe" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "SUBDIR=win-64" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "SRC_DIR=C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "HTTPS_PROXY=" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "HTTP_PROXY=" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "DIRTY=" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "ROOT=C:\Users\adambr\AppData\Local\Continuum\Anaconda3" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "PYTHON=C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\_b_env\python.exe" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "PY3K=1" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "STDLIB_DIR=C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\_b_env\Lib" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "SP_DIR=C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\_b_env\Lib\site-packages" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "PY_VER=3.6" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "CONDA_PY=36" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "PERL=C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\_b_env\perl.exe" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "PERL_VER=5.20.3" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "LUA=C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\_b_env\lua.exe" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "LUA_INCLUDE_DIR=C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\_b_env\include" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "LUA_VER=5.2" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "PKG_NAME=cx_oracle" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "PKG_VERSION=5.3" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "PKG_BUILDNUM=" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "PKG_BUILD_STRING=py36_0" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "RECIPE_DIR=C:\Users\adambr\Projects\Python\cx_Oracle\cx_oracle" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "CPU_COUNT=4" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "SHLIB_EXT=.dll" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "PATH=C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\_b_env;C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\_b_env\Library\mingw-w64\bin;C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\_b_env\Library\usr\bin;;C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\_b_env\Library\bin;C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\_b_env\Scripts;C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\_b_env\Scripts;C:\Users\adambr\AppData\Local\Continuum\Anaconda3\Library\bin;C:\Users\adambr\AppData\Local\Continuum\Anaconda3\Library\bin;C:\app\client\Oracle\product\12.1.0\client_1\bin;D:\app\client\Oracle\product\12.1.0\client_2\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Microsoft Shared\Microsoft Online Services;C:\Program Files (x86)\Common Files\Microsoft Shared\Microsoft Online Services;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Git\cmd;C:\Program Files (x86)\PuTTY\;C:\Program Files (x86)\Google\Google Apps Migration\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Users\adambr\AppData\Local\Continuum\Anaconda3;C:\Users\adambr\AppData\Local\Continuum\Anaconda3\Scripts;C:\Users\adambr\AppData\Local\Continuum\Anaconda3\Library\bin;C:\Users\adambr\AppData\Local\atom\bin;C:\Users\adambr\AppData\Local\Pandoc\;C:\Program Files\Git\usr\bin;C:\Users\adambr\AppData\Local\Gource\cmd;C:\Program Files (x86)\Graphviz2.38\bin\" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "SCRIPTS=C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\_b_env\Scripts" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "LIBRARY_PREFIX=C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\_b_env\Library" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "LIBRARY_BIN=C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\_b_env\Library\bin" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "LIBRARY_INC=C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\_b_env\Library\include" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "LIBRARY_LIB=C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\_b_env\Library\lib" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "R=C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\_b_env\Scripts\R.exe" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "CYGWIN_PREFIX=/cygdrive/c/Users/adambr/AppData/Local/Continuum/Anaconda3/conda-bld/mvce_1489760230071/_b_env" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "SYSTEMROOT=C:\WINDOWS" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "WINDIR=C:\WINDOWS" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "CONDA_BUILD_STATE=BUILD" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set DISTUTILS_USE_SDK=1 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set MSSdk=1 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set PY_VCRUNTIME_REDIST=C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\_b_env\Library\bin\vcruntime140.dll 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "VS_VERSION=14.0" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "VS_MAJOR=14" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "VS_YEAR=2015" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "CMAKE_GENERATOR=Visual Studio 14 2015 Win64" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "MSYS2_ARG_CONV_EXCL=/AI;/AL;/OUT;/out" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "MSYS2_ENV_CONV_EXCL=CL" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>call "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\..\..\VC\vcvarsall.bat" amd64 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "INCLUDE=C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\_b_env\Library\include;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\INCLUDE;C:\Program Files (x86)\Windows Kits\10\include\10.0.10240.0\ucrt;C:\Program Files (x86)\Windows Kits\8.1\include\shared;C:\Program Files (x86)\Windows Kits\8.1\include\um;C:\Program Files (x86)\Windows Kits\8.1\include\winrt;" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>set "LIB=C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\_b_env\Library\lib;C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\LIB\amd64;C:\Program Files (x86)\Windows Kits\10\lib\10.0.10240.0\ucrt\x64;C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64;" 
+
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>call "C:\Users\adambr\AppData\Local\Continuum\Anaconda3\Scripts\activate.bat" "C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\_b_env" 
+
+(C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\_b_env) C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>REM ===== end generated header ===== 
+
+(C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\_b_env) C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>"C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\_b_env\python.exe" setup.py install  
+running install
+running bdist_egg
+running egg_info
+creating mvce.egg-info
+writing mvce.egg-info\PKG-INFO
+writing dependency_links to mvce.egg-info\dependency_links.txt
+writing top-level names to mvce.egg-info\top_level.txt
+writing manifest file 'mvce.egg-info\SOURCES.txt'
+reading manifest file 'mvce.egg-info\SOURCES.txt'
+writing manifest file 'mvce.egg-info\SOURCES.txt'
+installing library code to build\bdist.win-amd64\egg
+running install_lib
+running build_py
+creating build
+creating build\lib
+creating build\lib\mvce
+copying mvce\main.py -> build\lib\mvce
+copying mvce\__init__.py -> build\lib\mvce
+creating build\bdist.win-amd64
+creating build\bdist.win-amd64\egg
+creating build\bdist.win-amd64\egg\mvce
+copying build\lib\mvce\main.py -> build\bdist.win-amd64\egg\mvce
+copying build\lib\mvce\__init__.py -> build\bdist.win-amd64\egg\mvce
+byte-compiling build\bdist.win-amd64\egg\mvce\main.py to main.cpython-36.pyc
+byte-compiling build\bdist.win-amd64\egg\mvce\__init__.py to __init__.cpython-36.pyc
+creating build\bdist.win-amd64\egg\EGG-INFO
+copying mvce.egg-info\PKG-INFO -> build\bdist.win-amd64\egg\EGG-INFO
+copying mvce.egg-info\SOURCES.txt -> build\bdist.win-amd64\egg\EGG-INFO
+copying mvce.egg-info\dependency_links.txt -> build\bdist.win-amd64\egg\EGG-INFO
+copying mvce.egg-info\top_level.txt -> build\bdist.win-amd64\egg\EGG-INFO
+creating dist
+creating 'dist\mvce-0.0.2-py3.6.egg' and adding 'build\bdist.win-amd64\egg' to it
+removing 'build\bdist.win-amd64\egg' (and everything under it)
+Processing mvce-0.0.2-py3.6.egg
+Copying mvce-0.0.2-py3.6.egg to c:\users\adambr\appdata\local\continuum\anaconda3\conda-bld\mvce_1489760230071\_b_env\lib\site-packages
+Adding mvce 0.0.2 to easy-install.pth file
+
+Installed c:\users\adambr\appdata\local\continuum\anaconda3\conda-bld\mvce_1489760230071\_b_env\lib\site-packages\mvce-0.0.2-py3.6.egg
+Processing dependencies for mvce==0.0.2
+Finished processing dependencies for mvce==0.0.2
+
+(C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\_b_env) C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work>if errorlevel 1 exit 1 
+Copying C:\Users\adambr\Projects\Python\mvce to C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work
+BUILD START: mvce-0.0.2-py36_0
+updating index in: C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\win-64
+updating index in: C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\noarch
+Missing dependency cx_Oracle, but found recipe directory, so building cx_Oracle first
+BUILD START: cx_oracle-5.3-py36_0
+updating index in: C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\win-64
+updating index in: C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\noarch
+
+The following NEW packages will be INSTALLED:
+
+    pip:            9.0.1-py36_1
+    python:         3.6.0-0
+    setuptools:     27.2.0-py36_1
+    vs2015_runtime: 14.0.25123-0
+    wheel:          0.29.0-py36_0
+
+Source cache directory is: C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\src_cache
+Found source in cache: cx_Oracle-5.3.tar.gz
+Extracting download
+Package: cx_oracle-5.3-py36_0
+source tree in: C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work
+found egg: C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\_b_env\Lib\site-packages\mvce-0.0.2-py3.6.egg
+number of files: 2
+Fixing permissions
+Fixing permissions
+C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\win-64\cx_oracle-5.3-py36_0.tar.bz2
+updating index in: C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld
+updating index in: C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\noarch
+updating index in: C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\win-64
+updating: cx_oracle-5.3-py36_0.tar.bz2
+updating index in: C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld
+Nothing to test for: C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\win-64\cx_oracle-5.3-py36_0.tar.bz2
+Copying C:\Users\adambr\Projects\Python\mvce to C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\mvce_1489760230071\work
+BUILD START: mvce-0.0.2-py36_0
+updating index in: C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\win-64
+updating index in: C:\Users\adambr\AppData\Local\Continuum\Anaconda3\conda-bld\noarch
+Can't build C:\Users\adambr\Projects\Python\mvce due to environment creation error:
+Package missing in current win-64 channels:
+  - cx_Oracle
