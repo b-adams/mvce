@@ -1,0 +1,31 @@
+{% set data = load_setup_py_data() %}
+
+package:
+  name: mvce
+  version: {{ data.get('version') }}
+
+extra:
+  channels:
+    - adambr
+    - defaults
+
+source:
+  path: .
+
+build:
+  script:
+    - python setup.py install
+
+requirements:
+  build:
+    - python
+    - setuptools
+    # - cx_Oracle
+  run:
+    - python
+    # - cx_Oracle
+
+test:
+  imports:
+    - mvce
+    - mvce.main
