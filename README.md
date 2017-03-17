@@ -12,7 +12,4 @@ However, when I added cx_Oracle as a dependency in my test project, I ended up w
 > Package missing in current win-64 channels:
 >   - cx_Oracle
 
-It's unclear to me why the package would be reported missing, or how to fix it. I've made sure that the `adambr` channel is in my .condarc file (per (this 2014 post](http://stackoverflow.com/questions/25610843/conda-build-requirement-add-package-from-specific-channel#25632265)), I invoked conda-build using `conda build -c adambr .` to further ensure the channel was specified, and it's picked up just fine for my system by `conda install`.
-
-
-
+It's unclear to me why the package would be reported missing, or how to fix it. I've made sure that the `adambr` channel is in my .condarc file (per [this 2014 post](http://stackoverflow.com/questions/25610843/conda-build-requirement-add-package-from-specific-channel#25632265)), I invoked conda-build using `conda build -c adambr .` to further ensure the channel was specified, and it's picked up just fine for my system by `conda install`.
